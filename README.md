@@ -6,4 +6,4 @@ Haven't optimized yet, just try to demostrate the algorithm and processing real 
 
 using classic K-L algorithm for refencing 
 http://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method
-Creating a new branch dev.
+Creating a new branch is quick & simple.
