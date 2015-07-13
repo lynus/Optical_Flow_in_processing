@@ -9,4 +9,8 @@ http://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method
 Creating a new branch is quick AND simple.
 another dev branch.
 more changes.
+<<<<<<< HEAD
 dev changes.
+=======
+pending changes.
+>>>>>>> feature-vulcan
